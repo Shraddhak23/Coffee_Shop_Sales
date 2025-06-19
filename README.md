@@ -3,17 +3,17 @@
 **PROBLEM STATEMENT**
 
 KPI's REQUIREMENT
-1.Total Sales Analysis 
+1.  Total Sales Analysis 
 •	Calculate total sales for each respective month. 
 •	Determine MoM increase or decrease in sales. 
 •	Calculate difference in sales between the selected month and previous month.
 
-2.Total Order Analysis 
+2.  Total Order Analysis 
 •	Calculate total orders for each respective month. 
 •	Determine MoM increase or decrease in orders. 
 •	Calculate difference in orders between the selected month and previous month.
 
-3.Total Quantity Sold Analysis 
+3.  Total Quantity Sold Analysis 
 •	Calculate total quantity sold for each respective month. 
 •	Determine MoM increase or decrease in total quantity. 
 •	Calculate difference in total quantities between the selected month and previous month.
